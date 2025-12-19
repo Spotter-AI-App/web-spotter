@@ -62,6 +62,7 @@ const policySections = [
   },
   {
     title:"Security and Minors",
+    content: "We take your security seriously and have specific policies regarding minors:",
     list:[
         "Security: We use HTTPS/TLS encryption for communication and encryption at rest for stored data.",
         "Minors: The App is directed exclusively at users over 14 years of age. We do not knowingly collect data from children under 14.",
