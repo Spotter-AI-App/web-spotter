@@ -4,6 +4,35 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
+      colors: {
+        // Brand Greens
+        primary: {
+          DEFAULT: '#00E676',
+          dark: '#00B248',
+        },
+        emerald: '#10B981',
+        
+        // Logo Greens
+        logo: {
+          mid: '#3BBD46',
+          lime: '#8AE769',
+          bright: '#5BD450',
+        },
+        'deep-green': '#156332',
+        
+        // Neutrals (Dark Backgrounds)
+        background: {
+          DEFAULT: '#0B0A0B',
+          elevated: '#110B0F',
+        },
+        surface: '#141216',
+        
+        // Text
+        text: {
+          primary: '#FFFFFF',
+          secondary: '#CFCFD2',
+        },
+      },
       fontFamily: {
         sans: [
           "Inter Tight",

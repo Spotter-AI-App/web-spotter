@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  /* BRAND GREENS */
+  --color-primary: #00E676;           /* CTA / highlights */
+  --color-primary-dark: #00B248;      /* hover / pressed */
+  --color-emerald: #10B981;           /* Main app green */
+
+  /* LOGO GREENS */
+  --color-logo-mid: #3BBD46;          /* Support / gradients */
+  --color-logo-lime: #8AE769;         /* Glow / soft emphasis */
+  --color-logo-bright: #5BD450;       /* Logo Verde Brillante */
+  --color-deep-green: #156332;        /* Borders / green shadows */
+
+  /* NEUTRALS (Dark Backgrounds) */
+  --color-background: #0B0A0B;        /* Base background */
+  --color-background-elevated: #110B0F; /* Cards / modals */
+  --color-surface: #141216;           /* Inputs / tiles */
+
+  /*TEXT (Whites) */
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #CFCFD2;
+}
