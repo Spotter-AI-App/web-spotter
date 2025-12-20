@@ -12,7 +12,7 @@ export default function Hero() {
       <h1 className="font-sans text-3xl tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl mb-6">
         {content.hero.title}
       </h1>
-      <p className="text-xl mb-12 text-logo-lime font-light">
+      <p className="text-xl mb-12 text-emerald font-light">
         {content.hero.subtitle}
       </p>
     </section>

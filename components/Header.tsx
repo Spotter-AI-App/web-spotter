@@ -11,7 +11,7 @@ export default function Header() {
   const content = t(appTranslations, language);
 
   return (
-    <header className="bg-white dark:bg-black shadow-sm dark:border-b dark:border-logo-lime">
+    <header className="bg-white dark:bg-black shadow-sm dark:border-b dark:border-emerald">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <a className="flex items-center" href="/">
           <span className="text-xl dark:text-gray-100">Spotter AI</span>

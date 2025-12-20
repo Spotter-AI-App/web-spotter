@@ -17,7 +17,7 @@ interface HighlightedTextProps {
  */
 export default function HighlightedText({ 
   text, 
-  highlightClassName = "text-lime-400 font-semibold" 
+  highlightClassName = "text-emerald font-semibold" 
 }: HighlightedTextProps) {
   // Split text by {{...}} pattern
   const parts = text.split(/(\{\{[^}]+\}\})/g);
