@@ -14,7 +14,7 @@ const Footer = () => {
         <p className="ml-4">&copy; {currentYear} Spotter AI. {content.footer.copyright}</p>
         <div className="flex items-center">
           <a href="/">
-            <img src="/icon_transparent.png" alt="logo" className="w-12 h-12" />
+            <img src="logos/icon_transparent.png" alt="logo" className="w-12 h-12" />
           </a>
         </div>
       </div>
