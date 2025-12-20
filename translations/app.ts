@@ -23,18 +23,21 @@ export const appTranslations = {
     sections: [
       {
         images: [
-          { src: "/carousel/screen-1.png", alt: "Nutrition tracking" },
-          { src: "/carousel/screen-2.png", alt: "Calorie breakdown" },
-          { src: "/carousel/screen-3.png", alt: "Meal logging" },
+          { src: "/carousel/nutrition/nutrition1.jpeg", alt: "Nutrition tracking Spotter AI" },
+          { src: "/carousel/nutrition/nutrition2.jpeg", alt: "Nutrition tracking Spotter AI" },
+          { src: "/carousel/nutrition/nutrition3.jpeg", alt: "Nutrition tracking Spotter AI" },
+          { src: "/carousel/nutrition/nutrition4.jpeg", alt: "Nutrition tracking Spotter AI" },
         ],
         title: "Nutrition",
         description: "{{Optimize your nutrition by logging your meals in seconds. Get instant insights: a breakdown of calories, protein, carbs, and fats.}} Actionable data, instant readings, and an experience so simple it helps you stay on track even on your most chaotic days.",
       },
       {
         images: [
-          { src: "/carousel/screen-2.png", alt: "Workout logging" },
-          { src: "/carousel/screen-1.png", alt: "Exercise tracking" },
-          { src: "/carousel/screen-3.png", alt: "Progress comparison" },
+          { src: "/carousel/workout/workout1.jpeg", alt: "Workout register Spotter AI" },
+          { src: "/carousel/workout/workout2.jpeg", alt: "Workout register Spotter AI" },
+          { src: "/carousel/workout/workout3.jpeg", alt: "Workout register Spotter AI" },
+          { src: "/carousel/workout/workout4.jpeg", alt: "Workout register Spotter AI" },
+          { src: "/carousel/workout/workout5.jpeg", alt: "Workout register Spotter AI" },
         ],
         title: "Workout",
         reversed: true,
@@ -42,18 +45,21 @@ export const appTranslations = {
       },
       {
         images: [
-          { src: "/carousel/screen-3.png", alt: "Streaks dashboard" },
-          { src: "/carousel/screen-1.png", alt: "Weekly challenges" },
-          { src: "/carousel/screen-2.png", alt: "XP and leagues" },
+          { src: "/carousel/streaks/streaks1.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks2.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks3.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks4.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks5.jpeg", alt: "Streks Spotter AI" },
         ],
         title: "Streaks",
         description: "Consistency is key, and no one wants to fall off their peak. {{Make consistency visible, measurable, and motivating with Streaks.}} Complete weekly challenges, earn XP, and compete in different leagues so that hitting your next workout becomes second nature.",
       },
       {
         images: [
-          { src: "/carousel/screen-1.png", alt: "Social feed" },
-          { src: "/carousel/screen-2.png", alt: "Share progress" },
-          { src: "/carousel/screen-3.png", alt: "Community" },
+          { src: "/carousel/social/social1.jpeg", alt: "Social feed Spotter AI" },
+          { src: "/carousel/social/social2.jpeg", alt: "Social feed Spotter AI" },
+          { src: "/carousel/social/social3.jpeg", alt: "Feed social Spotter AI" },
+          { src: "/carousel/social/social4.jpeg", alt: "Feed social Spotter AI" },
         ],
         title: "Social",
         reversed: true,
@@ -63,7 +69,7 @@ export const appTranslations = {
     // Thank You
     thankYou: {
       title: "Successful registration!",
-      subtitle: "You're now part of the Spotter community. Get ready to {{transform your fitness journey.}}",
+      subtitle: "You're now part of the Spotter community. Go back to the app and to sign in and {{transform your fitness journey.}}",
     },
     // Footer
     footer: {
@@ -93,18 +99,21 @@ export const appTranslations = {
     sections: [
       {
         images: [
-          { src: "/carousel/screen-1.png", alt: "Seguimiento nutricional" },
-          { src: "/carousel/screen-2.png", alt: "Desglose de calorías" },
-          { src: "/carousel/screen-3.png", alt: "Registro de comidas" },
+          { src: "/carousel/nutrition/nutrition1.jpeg", alt: "Nutrition tracking Spotter AI" },
+          { src: "/carousel/nutrition/nutrition2.jpeg", alt: "Nutrition tracking Spotter AI" },
+          { src: "/carousel/nutrition/nutrition3.jpeg", alt: "Nutrition tracking Spotter AI" },
+          { src: "/carousel/nutrition/nutrition4.jpeg", alt: "Nutrition tracking Spotter AI" },
         ],
         title: "Nutrición",
         description: "{{Optimiza tu nutrición registrando tus comidas en segundos. Obtén un análisis inmediato: panel de calorías, proteína, carbohidratos y grasas.}} Datos útiles, lectura instantánea y una experiencia tan simple que te permite mantener el plan incluso en días caóticos.",
       },
       {
         images: [
-          { src: "/carousel/screen-2.png", alt: "Registro de entrenamientos" },
-          { src: "/carousel/screen-1.png", alt: "Seguimiento de ejercicios" },
-          { src: "/carousel/screen-3.png", alt: "Comparación de progreso" },
+          { src: "/carousel/workout/workout1.jpeg", alt: "Workout register Spotter AI" },
+          { src: "/carousel/workout/workout2.jpeg", alt: "Workout register Spotter AI" },
+          { src: "/carousel/workout/workout3.jpeg", alt: "Workout register Spotter AI" },
+          { src: "/carousel/workout/workout4.jpeg", alt: "Workout register Spotter AI" },
+          { src: "/carousel/workout/workout5.jpeg", alt: "Workout register Spotter AI" },
         ],
         title: "Entrenamiento",
         reversed: true,
@@ -112,18 +121,21 @@ export const appTranslations = {
       },
       {
         images: [
-          { src: "/carousel/screen-3.png", alt: "Panel de Streaks" },
-          { src: "/carousel/screen-1.png", alt: "Retos semanales" },
-          { src: "/carousel/screen-2.png", alt: "XP y ligas" },
+          { src: "/carousel/streaks/streaks1.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks2.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks3.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks4.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks5.jpeg", alt: "Streks Spotter AI" },
         ],
         title: "Streaks",
         description: "La constancia es lo que cambia el juego, y nadie quiere dejar de estar en su peak. {{Convierte la constancia en algo visible, medible y motivador con los Streaks.}} Completa retos semanales, gana XP y compite en las diferentes ligas para que volver a entrenar a mañana sea lo natural.",
       },
       {
         images: [
-          { src: "/carousel/screen-1.png", alt: "Feed social" },
-          { src: "/carousel/screen-2.png", alt: "Compartir progreso" },
-          { src: "/carousel/screen-3.png", alt: "Comunidad" },
+          { src: "/carousel/social/social1.jpeg", alt: "Feed social Spotter AI" },
+          { src: "/carousel/social/social2.jpeg", alt: "Feed social Spotter AI" },
+          { src: "/carousel/social/social3.jpeg", alt: "Feed social Spotter AI" },
+          { src: "/carousel/social/social4.jpeg", alt: "Feed social Spotter AI" },
         ],
         title: "Social",
         reversed: true,
@@ -133,7 +145,7 @@ export const appTranslations = {
     // Thank You
     thankYou: {
       title: "¡Registro exitoso!",
-      subtitle: "Ahora eres parte de la comunidad Spotter. Prepárate para {{transformar tu viaje fitness}}.",
+      subtitle: "Ahora eres parte de la comunidad Spotter. Vuelve a la app y regístrate para {{transformar tu viaje fitness}}.",
     },
     // Footer
     footer: {

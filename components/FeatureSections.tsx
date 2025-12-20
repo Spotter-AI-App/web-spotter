@@ -18,8 +18,7 @@ export default function FeatureSections() {
       {t.sections.map((section, index) => (
         <Section 
           key={index}
-          imageSrc={section.imageSrc}
-          imageAlt={section.imageAlt}
+          images={section.images}
           title={section.title}
           description={section.description}
           reversed={section.reversed}

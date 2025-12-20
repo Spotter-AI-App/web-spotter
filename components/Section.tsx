@@ -1,9 +1,14 @@
 import Image from "next/image";
 import HighlightedText from "./HighlightedText";
+import ImageCarousel, { CarouselSlide } from "./ImageCarousel";
 
 interface SectionProps {
-  imageSrc: string;
-  imageAlt: string;
+  /** Single image source (for backwards compatibility) */
+  imageSrc?: string;
+  /** Single image alt (for backwards compatibility) */
+  imageAlt?: string;
+  /** Array of images for carousel */
+  images?: CarouselSlide[];
   title: string;
   description: string;
   /** If true, image appears on the right instead of the left */
@@ -12,22 +17,26 @@ interface SectionProps {
 
 const Section: React.FC<SectionProps> = ({ 
   imageSrc, 
-  imageAlt, 
+  imageAlt = "",
+  images,
   title, 
   description,
   reversed = false 
 }) => {
+  // Convert single image to slides array, or use images prop
+  const slides: CarouselSlide[] = images || (imageSrc ? [{ src: imageSrc, alt: imageAlt }] : []);
+  
   return (
     <section className="container mx-auto py-12 px-4 md:px-6">
       <div className="flex flex-col md:flex-row items-center gap-12">
         {/* Image Side */}
         <div className={`w-full md:w-1/2 flex justify-center ${reversed ? 'md:order-2' : 'md:order-1'} order-1`}>
-          <div className="relative w-full max-w-md aspect-square rounded-3xl overflow-hidden shadow-2xl">
-            <Image
-              src={imageSrc}
-              alt={imageAlt}
-              fill
-              className="object-cover"
+          <div className="w-full max-w-[250px]">
+            <ImageCarousel 
+              slides={slides}
+              showControls={slides.length > 1}
+              showDots={slides.length > 1}
+              aspectRatio="iphone"
             />
           </div>
         </div>
@@ -47,4 +56,5 @@ const Section: React.FC<SectionProps> = ({
 };
 
 export default Section;
+
 
