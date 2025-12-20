@@ -29,7 +29,7 @@ export default function PrivacyTermsPage() {
       contactRightsText={content.contactRightsText}
       footerText={content.footerText}
       sections={content.sections}
-      contactEmail="alfonsomayoral29@gmail.com"
+      contactEmail="support@spotter-ai.app"
     />
   );
 }
