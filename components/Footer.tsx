@@ -9,7 +9,7 @@ const Footer = () => {
   const content = t(appTranslations, language);
 
   return (
-    <footer className="bg-white border-t border-gray-100 dark:bg-black shadow-sm text-gray-400 py-6 dark:border-t dark:border-gray-800">
+    <footer className="bg-white dark:bg-black shadow-sm text-gray-400 py-6">
       <div className="container mx-auto px-4 flex flex-wrap justify-center sm:justify-between items-center text-sm">
         <p className="ml-4">&copy; {currentYear} Spotter AI. {content.footer.copyright}</p>
         <div className="flex items-center">
