@@ -11,11 +11,11 @@ export default function Header() {
   const content = t(appTranslations, language);
 
   return (
-    <header className="bg-white dark:bg-black shadow-sm dark:border-b dark:border-logo-lime">
+    <header className="bg-white dark:bg-black shadow-sm dark:border-b dark:border-emerald">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <a className="flex items-center" href="/">
           <span className="text-xl dark:text-gray-100">Spotter AI</span>
-          <img src="/icon_transparent.png" alt="logo" className="w-12 h-12" />
+          <img src="logos/icon_transparent.png" alt="logo" className="w-12 h-12" />
         </a>
         <nav className="flex items-center gap-3">
           <ul className="flex space-x-2">

@@ -34,7 +34,7 @@ const LanguageSwitch = () => {
       aria-label={language === "en" ? "Switch to Spanish" : "Cambiar a Inglés"}
     >
       <span className={`transition-opacity ${language === "en" ? "opacity-100" : "opacity-50"}`}>
-        🇬🇧
+        🇺🇸
       </span>
       <span className="text-gray-400 dark:text-gray-500">/</span>
       <span className={`transition-opacity ${language === "es" ? "opacity-100" : "opacity-50"}`}>
