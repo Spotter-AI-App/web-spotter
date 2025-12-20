@@ -1,14 +1,21 @@
-import Link from "next/link";
+"use client";
+
+import { useLanguage, t } from "hooks/useLanguage";
+import { appTranslations } from "translations/app";
 
 export default function Hero() {
+  const { language } = useLanguage();
+  const content = t(appTranslations, language);
+
   return (
     <section className="text-center my-32 mx-4 sm:mx-8 md:mx-16 lg:mx-24">
-      <h1 className="font-sans text-3xl tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl dark:text-white mb-6">
-        Spotter AI
+      <h1 className="font-sans text-3xl tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl mb-6">
+        {content.hero.title}
       </h1>
-      <p className="text-xl text-gray-600 dark:text-gray-300 mb-12 font-light">
-        Track your progress and bring fitness to the next level.
+      <p className="text-xl mb-12 text-logo-lime font-light">
+        {content.hero.subtitle}
       </p>
     </section>
   );
 }
+
