@@ -28,21 +28,9 @@ const Section: React.FC<SectionProps> = ({
   
   return (
     <section className="container mx-auto py-12 px-4 md:px-6">
-      <div className="flex flex-col md:flex-row items-center gap-12">
-        {/* Image Side */}
-        <div className={`w-full md:w-1/2 flex justify-center ${reversed ? 'md:order-2' : 'md:order-1'} order-1`}>
-          <div className="w-full max-w-[250px]">
-            <ImageCarousel 
-              slides={slides}
-              showControls={slides.length > 1}
-              showDots={slides.length > 1}
-              aspectRatio="iphone"
-            />
-          </div>
-        </div>
-        
+      <div className="flex flex-col md:flex-row items-center gap-12">        
         {/* Text Side */}
-        <div className={`w-full md:w-1/2 ${reversed ? 'md:order-1' : 'md:order-2'} order-2`}>
+        <div className={`w-full md:w-1/2 ${reversed ? 'md:order-2' : 'md:order-1'}`}>
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-6 leading-tight">
             <HighlightedText text={title} />
           </h2>
@@ -50,11 +38,21 @@ const Section: React.FC<SectionProps> = ({
             <HighlightedText text={description} />
           </p>
         </div>
+        {/* Image Side */}
+        <div className={`w-full md:w-1/2 flex justify-center ${reversed ? 'md:order-1' : 'md:order-2'}`}>
+          <div className="w-full max-w-[250px]">
+            <ImageCarousel 
+              slides={slides}
+              showControls={slides.length > 1}
+              showDots={slides.length > 1}
+              aspectRatio="iphone"
+              autoPlay={false}
+            />
+          </div>
+        </div>
       </div>
     </section>
   );
 };
 
 export default Section;
-
-

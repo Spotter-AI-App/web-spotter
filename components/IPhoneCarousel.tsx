@@ -10,9 +10,13 @@ interface IPhoneCarouselProps {
 }
 
 const defaultSlides: CarouselSlide[] = [
-  { src: "/carousel/screen-1.png", alt: "App Screenshot 1" },
-  { src: "/carousel/screen-2.png", alt: "App Screenshot 2" },
-  { src: "/carousel/screen-3.png", alt: "App Screenshot 3" },
+  { src: "/carousel/workout/workout1.jpeg", alt: "Screenshot Workout Spotter AI" },
+  { src: "/carousel/nutrition/nutrition1.jpeg", alt: "Screenshot Nutrition Spotter AI" },
+  { src: "/carousel/social/social2.jpeg", alt: "Screenshot Social Spotter AI" },
+  { src: "/carousel/streaks/streaks1.jpeg", alt: "Screenshot Streaks Spotter AI" },
+  { src: "/carousel/workout/workout2.jpeg", alt: "Screenshot Workout Spotter AI" },
+  { src: "/carousel/social/social4.jpeg", alt: "Screenshot Social Spotter AI" },
+  { src: "/carousel/streaks/streaks3.jpeg", alt: "Screenshot Streaks Spotter AI" },
 ];
 
 const IPhoneCarousel = ({
@@ -48,12 +52,12 @@ const IPhoneCarousel = ({
             }}
           >
             {/* Dynamic Island / Notch */}
-            <div className="absolute top-3 left-1/2 -translate-x-1/2 z-20">
+            <div className="absolute top left-1/2 -translate-x-1/2 z-20">
               <div
                 className="rounded-full bg-black flex items-center justify-center"
                 style={{
-                  width: "100px",
-                  height: "28px",
+                  width: "80px",
+                  height: "26px",
                   boxShadow: "inset 0 0 4px rgba(0, 0, 0, 0.8)",
                 }}
               >
