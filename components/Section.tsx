@@ -46,6 +46,7 @@ const Section: React.FC<SectionProps> = ({
               showControls={slides.length > 1}
               showDots={slides.length > 1}
               aspectRatio="iphone"
+              autoPlay={false}
             />
           </div>
         </div>
