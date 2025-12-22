@@ -10,7 +10,12 @@ export default function Header() {
   const content = t(appTranslations, language);
 
   return (
-    <header className="bg-white dark:bg-black shadow-sm dark:border-b dark:border-emerald">
+    <header 
+      className="sticky top-0 z-50 bg-white/80 dark:bg-black/80 backdrop-blur-md"
+      style={{
+        boxShadow: "0 4px 30px rgba(16, 185, 129, 0.3), 0 1px 3px rgba(16, 185, 129, 0.2)"
+      }}
+    >
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo */}
         <a className="flex items-center gap-2" href="/">
@@ -23,7 +28,7 @@ export default function Header() {
         <nav className="flex items-center gap-2">
           <Link
             href="/policy"
-            className="text-sm text-gray-800 dark:text-white px-3 py-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors whitespace-nowrap"
+            className="text-sm dark:text-white hover:text-[#10B981] dark:hover:text-[#10B981] transition-colors"
           >
             {content.header.privacyPolicy}
           </Link>
