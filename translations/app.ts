@@ -45,11 +45,11 @@ export const appTranslations = {
       },
       {
         images: [
-          { src: "/carousel/streaks/streaks1.jpeg", alt: "Streks Spotter AI" },
-          { src: "/carousel/streaks/streaks2.jpeg", alt: "Streks Spotter AI" },
-          { src: "/carousel/streaks/streaks3.jpeg", alt: "Streks Spotter AI" },
-          { src: "/carousel/streaks/streaks4.jpeg", alt: "Streks Spotter AI" },
-          { src: "/carousel/streaks/streaks5.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks1.jpeg", alt: "Streaks Spotter AI" },
+          { src: "/carousel/streaks/streaks2.jpeg", alt: "Streaks Spotter AI" },
+          { src: "/carousel/streaks/streaks3.jpeg", alt: "Streaks Spotter AI" },
+          { src: "/carousel/streaks/streaks4.jpeg", alt: "Streaks Spotter AI" },
+          { src: "/carousel/streaks/streaks5.jpeg", alt: "Streaks Spotter AI" },
         ],
         title: "Streaks",
         description: "Consistency is key, and no one wants to fall off their peak. {{Make consistency visible, measurable, and motivating with Streaks.}} Complete weekly challenges, earn XP, and compete in different leagues so that hitting your next workout becomes second nature.",
@@ -69,7 +69,7 @@ export const appTranslations = {
     // Thank You
     thankYou: {
       title: "Successful registration!",
-      subtitle: "You're now part of the Spotter community. Go back to the app and to sign in and {{transform your fitness journey.}}",
+      subtitle: "You're now part of the Spotter community. Go back to the app and sign in to {{transform your fitness journey.}}",
     },
     // Footer
     footer: {
@@ -87,7 +87,7 @@ export const appTranslations = {
     // Hero
     hero: {
       title: "Spotter AI",
-      subtitle: "Rastrea tu progreso y lleva el fitness al siguiente nivel.",
+      subtitle: "Registra tu progreso y lleva el fitness al siguiente nivel.",
     },
     // Download
     download: {
@@ -121,14 +121,14 @@ export const appTranslations = {
       },
       {
         images: [
-          { src: "/carousel/streaks/streaks1.jpeg", alt: "Streks Spotter AI" },
-          { src: "/carousel/streaks/streaks2.jpeg", alt: "Streks Spotter AI" },
-          { src: "/carousel/streaks/streaks3.jpeg", alt: "Streks Spotter AI" },
-          { src: "/carousel/streaks/streaks4.jpeg", alt: "Streks Spotter AI" },
-          { src: "/carousel/streaks/streaks5.jpeg", alt: "Streks Spotter AI" },
+          { src: "/carousel/streaks/streaks1.jpeg", alt: "Streaks Spotter AI" },
+          { src: "/carousel/streaks/streaks2.jpeg", alt: "Streaks Spotter AI" },
+          { src: "/carousel/streaks/streaks3.jpeg", alt: "Streaks Spotter AI" },
+          { src: "/carousel/streaks/streaks4.jpeg", alt: "Streaks Spotter AI" },
+          { src: "/carousel/streaks/streaks5.jpeg", alt: "Streaks Spotter AI" },
         ],
         title: "Streaks",
-        description: "La constancia es lo que cambia el juego, y nadie quiere dejar de estar en su peak. {{Convierte la constancia en algo visible, medible y motivador con los Streaks.}} Completa retos semanales, gana XP y compite en las diferentes ligas para que volver a entrenar a mañana sea lo natural.",
+        description: "La constancia es lo que cambia el juego, y nadie quiere dejar de estar en su peak. {{Convierte la constancia en algo visible, medible y motivador con los Streaks.}} Completa retos semanales, gana XP y compite en las diferentes ligas para que volver a entrenar mañana sea lo natural.",
       },
       {
         images: [
@@ -145,7 +145,7 @@ export const appTranslations = {
     // Thank You
     thankYou: {
       title: "¡Registro exitoso!",
-      subtitle: "Ahora eres parte de la comunidad Spotter. Vuelve a la app y regístrate para {{transformar tu viaje fitness}}.",
+      subtitle: "Ahora eres parte de la comunidad Spotter. Vuelve a la app e inicia sesión para {{transformar tu viaje fitness}}.",
     },
     // Footer
     footer: {
