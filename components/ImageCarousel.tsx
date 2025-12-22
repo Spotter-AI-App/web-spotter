@@ -21,7 +21,7 @@ interface ImageCarouselProps {
 const ImageCarousel = ({
   slides,
   autoPlay = true,
-  autoPlayInterval = 4000,
+  autoPlayInterval = 2000,
   className = "",
   showControls = true,
   showDots = true,
@@ -42,7 +42,7 @@ const ImageCarousel = ({
       if (isTransitioning) return;
       setIsTransitioning(true);
       setCurrentIndex(index);
-      setTimeout(() => setIsTransitioning(false), 500);
+      setTimeout(() => setIsTransitioning(false), 300);
     },
     [isTransitioning]
   );
@@ -110,11 +110,11 @@ const ImageCarousel = ({
           <button
             type="button"
             onClick={goToPrevious}
-            className="absolute top-1/2 left-2 -translate-y-1/2 z-10 group"
+            className="absolute top-1/2 left-3 -translate-y-1/2 z-10 group"
             aria-label="Previous slide"
           >
             <svg
-              className="w-5 h-5 text-white/70 group-hover:text-white transition-colors"
+              className="w-6 h-6 text-white group-hover:text-[#10B981] transition-colors"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -127,11 +127,11 @@ const ImageCarousel = ({
           <button
             type="button"
             onClick={goToNext}
-            className="absolute top-1/2 right-2 -translate-y-1/2 z-10 group"
+            className="absolute top-1/2 right-3 -translate-y-1/2 z-10 group"
             aria-label="Next slide"
           >
             <svg
-              className="w-5 h-5 text-white/70 group-hover:text-white transition-colors"
+              className="w-6 h-6 text-white group-hover:text-[#10B981] transition-colors"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -153,7 +153,7 @@ const ImageCarousel = ({
               onClick={() => goToSlide(index)}
               className={`w-2 h-2 rounded-full transition-all ${
                 index === currentIndex
-                  ? "bg-white w-6"
+                  ? "bg-[#10B981] w-6"
                   : "bg-white/50 hover:bg-white/70"
               }`}
               aria-label={`Go to slide ${index + 1}`}
