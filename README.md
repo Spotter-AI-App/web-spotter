@@ -19,3 +19,5 @@ Site built with the starter template [Free Next JS Starter Template](https://ver
 - Tailwind CSS
 - Next Themes for dark mode
 - React Icons
+
+2025 Spotter AI - All rights reserved
