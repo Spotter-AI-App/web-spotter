@@ -33,12 +33,12 @@ const IPhoneCarousel = ({
         <div
           className="relative rounded-[50px] p-3 shadow-2xl"
           style={{
-            background: "linear-gradient(145deg, #2a2a2a 0%, #1a1a1a 50%, #0f0f0f 100%)",
+            background: "#383838ff",
             boxShadow: `
               0 0 0 1px rgba(255, 255, 255, 0.1),
               0 25px 50px -12px rgba(0, 0, 0, 0.8),
               inset 0 1px 0 rgba(255, 255, 255, 0.1),
-              0 0 60px rgba(0, 230, 118, 0.15)
+              0 0 60px #10B98126
             `,
           }}
         >
@@ -52,7 +52,7 @@ const IPhoneCarousel = ({
             }}
           >
             {/* Dynamic Island / Notch */}
-            <div className="absolute top left-1/2 -translate-x-1/2 z-20">
+{/*             <div className="absolute top left-1/2 -translate-x-1/2 z-20">
               <div
                 className="rounded-full bg-black flex items-center justify-center"
                 style={{
@@ -61,7 +61,7 @@ const IPhoneCarousel = ({
                   boxShadow: "inset 0 0 4px rgba(0, 0, 0, 0.8)",
                 }}
               >
-                {/* Camera lens */}
+            
                 <div
                   className="w-3 h-3 rounded-full mr-6"
                   style={{
@@ -70,7 +70,7 @@ const IPhoneCarousel = ({
                   }}
                 />
               </div>
-            </div>
+            </div> */}
 
             {/* Screen content - Reusing ImageCarousel */}
             <div className="absolute inset-0 overflow-hidden rounded-[38px]">
@@ -111,7 +111,7 @@ const IPhoneCarousel = ({
         <div
           className="absolute inset-0 -z-10 blur-3xl opacity-50"
           style={{
-            background: "radial-gradient(circle at center, rgba(0, 230, 118, 0.3) 0%, transparent 70%)",
+            background: "radial-gradient(circle at center, #10B9814D 0%, transparent 70%)",
             transform: "scale(1.2)",
           }}
         />
@@ -119,21 +119,21 @@ const IPhoneCarousel = ({
         {/* Side buttons - Volume */}
         <div
           className="absolute left-0 top-28 w-1 h-8 rounded-l-md"
-          style={{ background: "linear-gradient(180deg, #3a3a3a 0%, #1a1a1a 100%)" }}
+          style={{ background: "#8a8a8a" }}
         />
         <div
           className="absolute left-0 top-40 w-1 h-12 rounded-l-md"
-          style={{ background: "linear-gradient(180deg, #3a3a3a 0%, #1a1a1a 100%)" }}
+          style={{ background: "#8a8a8a" }}
         />
         <div
           className="absolute left-0 top-56 w-1 h-12 rounded-l-md"
-          style={{ background: "linear-gradient(180deg, #3a3a3a 0%, #1a1a1a 100%)" }}
+          style={{ background: "#8a8a8a" }}
         />
 
         {/* Side button - Power */}
         <div
           className="absolute right-0 top-36 w-1 h-16 rounded-r-md"
-          style={{ background: "linear-gradient(180deg, #3a3a3a 0%, #1a1a1a 100%)" }}
+          style={{ background: "#8a8a8a" }}
         />
       </div>
     </div>
