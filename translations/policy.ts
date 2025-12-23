@@ -1,7 +1,7 @@
 export const policyTranslations = {
   en: {
     title: "Privacy Policy",
-    subtitle: "Spotter IA is committed to transparency in the collection and use of your personal data, complying with applicable data protection regulations (e.g., the GDPR in Europe) and Apple App Store privacy guidelines. This Privacy Policy describes what information we collect, how we use it, with whom we share it, and what rights you have regarding your data. The Spotter AI application (hereinafter, 'the App') is offered by an independent developer residing in Madrid, Spain (without a corporate entity), who acts as the data controller for your processing. By using the App, you accept the terms of this Privacy Policy.",
+    subtitle: "Spotter AI by CAMPUS INFORMATION TECHNOLOGIES S.L. is committed to transparency in the collection and use of your personal data, complying with applicable data protection regulations (e.g., the GDPR in Europe) and Apple App Store privacy guidelines. This Privacy Policy describes what information we collect, how we use it, with whom we share it, and what rights you have regarding your data. The Spotter AI application (hereinafter, 'the App') is offered by an independent developer residing in Madrid, Spain (without a corporate entity), who acts as the data controller for your processing. By using the App, you accept the terms of this Privacy Policy.",
     lastUpdated: "December 2025",
     lastUpdatedLabel: "Last updated:",
     contactTitle: "Contact",
@@ -80,7 +80,7 @@ export const policyTranslations = {
   },
   es: {
     title: "Política de Privacidad",
-    subtitle: "Spotter IA está comprometido con la transparencia en la recopilación y uso de tus datos personales, cumpliendo con las regulaciones de protección de datos aplicables (por ejemplo, el RGPD en Europa) y las directrices de privacidad de la App Store de Apple. Esta Política de Privacidad describe qué información recopilamos, cómo la usamos, con quién la compartimos y qué derechos tienes respecto a tus datos. La aplicación Spotter AI (en adelante, 'la App') es ofrecida por un desarrollador independiente residente en Madrid, España (sin entidad corporativa), quien actúa como responsable del tratamiento de tus datos. Al usar la App, aceptas los términos de esta Política de Privacidad.",
+    subtitle: "Spotter AI by CAMPUS INFORMATION TECHNOLOGIES S.L. está comprometido con la transparencia en la recopilación y uso de tus datos personales, cumpliendo con las regulaciones de protección de datos aplicables (por ejemplo, el RGPD en Europa) y las directrices de privacidad de la App Store de Apple. Esta Política de Privacidad describe qué información recopilamos, cómo la usamos, con quién la compartimos y qué derechos tienes respecto a tus datos. La aplicación Spotter AI (en adelante, 'la App') es ofrecida por un desarrollador independiente residente en Madrid, España (sin entidad corporativa), quien actúa como responsable del tratamiento de tus datos. Al usar la App, aceptas los términos de esta Política de Privacidad.",
     lastUpdated: "Diciembre 2025",
     lastUpdatedLabel: "Última actualización:",
     contactTitle: "Contacto",
