@@ -21,7 +21,10 @@ export default function Header() {
         <a className="flex items-center gap-2" href="/">
           <img src="logos/icon_transparent.png" alt="Spotter AI" className="w-10 h-10" />
           {/* Text appear for screenwidths > 768px */}
-          <span className="hidden md:inline text-xl dark:text-gray-100">Spotter AI</span>
+          <div className="hidden md:flex flex-col">
+            <span className="text-xl dark:text-gray-100">Spotter AI</span>
+            <span className="text-sm text-gray-500 dark:text-gray-400">by CAMPUS INFORMATION TECHNOLOGIES S.L.</span>
+          </div>
         </a>
 
         {/* Nav */}
