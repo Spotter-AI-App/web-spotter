@@ -3,11 +3,14 @@
 import Link from "next/link";
 import LanguageSwitch from "./LanguageSwitch";
 import { useLanguage, t } from "hooks/useLanguage";
+import { useLogoNavigation } from "hooks/useLogoNavigation";
 import { appTranslations } from "translations/app";
 
 export default function Header() {
   const { language } = useLanguage();
   const content = t(appTranslations, language);
+  const { handleLogoClick } = useLogoNavigation();
+
 
   return (
     <header 
@@ -18,7 +21,11 @@ export default function Header() {
     >
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo */}
-        <a className="flex items-center gap-2" href="/">
+        <a 
+          className="flex items-center gap-2 cursor-pointer" 
+          href="/"
+          onClick={handleLogoClick}
+        >
           <img src="logos/icon_transparent.png" alt="Spotter AI" className="w-10 h-10" />
           {/* Text appear for screenwidths > 768px */}
           <div className="hidden md:flex flex-col">
