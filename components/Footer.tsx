@@ -1,5 +1,6 @@
 "use client";
 
+import { FaInstagram } from "react-icons/fa";
 import { useLanguage, t } from "hooks/useLanguage";
 import { useLogoNavigation } from "hooks/useLogoNavigation";
 import { appTranslations } from "translations/app";
@@ -13,8 +14,9 @@ const Footer = () => {
 
   return (
     <footer className="bg-white dark:bg-black shadow-sm text-gray-400 py-6">
-      <div className="container mx-auto px-4 flex flex-wrap justify-center sm:justify-between items-center text-sm">
-        <div className="flex items-center">
+      <div className="container mx-auto px-4 flex flex-wrap justify-between items-center text-sm">
+        {/* Left side - Logo and company info */}
+        <div className="flex flex-col items-start">
           <a 
             href="/"
             onClick={handleLogoClick}
@@ -22,9 +24,23 @@ const Footer = () => {
           >
             <img src="logos/icon_transparent.png" alt="logo" className="w-12 h-12" />
           </a>
+          <p className="mt-2 text-xs">&copy; {currentYear} Spotter AI by CAMPUS INFORMATION TECHNOLOGIES S.L.</p>
+
         </div>
-        <p className="ml-4">&copy; {currentYear} Spotter AI. {content.footer.copyright}</p>
-        <p className="ml-4">by CAMPUS INFORMATION TECHNOLOGIES S.L.</p>
+
+        {/* Right side - Instagram */}
+        <a 
+          href="https://www.instagram.com/spotterai.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group"
+          aria-label="Instagram"
+        >
+          <FaInstagram 
+            size={28} 
+            className="text-gray-400 group-hover:text-emerald transition-colors"
+          />
+        </a>
       </div>
     </footer>
   );
