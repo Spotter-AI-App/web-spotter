@@ -1,0 +1,86 @@
+{
+  "title": "Privacy Policy",
+  "subtitle": "Spotter AI by CAMPUS INFORMATION TECHNOLOGIES S.L. is committed to transparency in the collection and use of your personal data, complying with applicable data protection regulations (e.g., the GDPR in Europe), Apple App Store and Google Play Store privacy guidelines. This Privacy Policy describes what information we collect, how we use it, with whom we share it, and what rights you have regarding your data. The Spotter AI application (hereinafter, 'the App') is offered by CAMPUS INFORMATION TECHNOLOGIES S.L., based in Madrid, Spain, which acts as the data controller. By using the App, you accept the terms of this Privacy Policy.",
+  "lastUpdated": "December 2025",
+  "lastUpdatedLabel": "Last updated:",
+  "contactTitle": "Contact",
+  "contactText": "If you have questions, concerns, or requests related to your privacy or this Privacy Policy, please do not hesitate to contact us. The team responsible for Spotter AI will attend to your inquiry promptly.",
+  "contactAddressLabel": "Contact address:",
+  "contactRightsText": "You can also use this email to exercise your data protection rights or for any communication regarding your personal data. We will address all inquiries as quickly as possible and always within legal timeframes.",
+  "footerText": "This Privacy Policy has been drafted clearly and in accordance with legal and App Store requirements to ensure you know how your data is handled when using Spotter AI. We strive to protect your information and respect your privacy at all times.",
+  "sections": [
+    {
+      "title": "What data we collect",
+      "content": "We only collect the personal data necessary to operate the App and provide you with a personalized experience. This data includes:",
+      "list": [
+        "Contact Information: Name, email address, and phone number.",
+        "Health and Physical Data: Height, weight, age, gender, and training objectives (e.g., fitness goals you wish to achieve)",
+        "Identifiers: An internal user ID assigned to your account and your device identifier (e.g., Expo push token for notifications).",
+        "Contacts (optional): If you enable contact discovery, the App may access your address book only with your permission to help you find people you know who already use Spotter AI. You can disable this at any time in the App settings.",
+        "User Content: Photos (e.g., meal or profile photos you choose to upload), posts, and comments you make in the social sections of the App. In particular, if you use photo-based nutrition features, meal images you capture or upload may be sent for analysis in order to estimate nutrition information.",
+        "Purchase History: Information about your in-app purchases, such as subscriptions or transactions made to access premium features (e.g., transaction identifiers and subscription status). We do not directly collect or store full payment card details, as payments are processed through the relevant store provider (e.g., the App Store)."
+      ],
+      "note": "Note: We do not collect geographic location data or any data from your device's environment. We also do not obtain data that you have not provided directly or generated through your use of the App. Where possible, we apply data minimization (e.g., avoiding unnecessary image metadata)."
+    },
+    {
+      "title": "How We Use Your Data",
+      "content": "We use your personal data exclusively for the following legitimate purposes within the context of the App:",
+      "list": [
+        "Providing the Service: We use your contact information to create and manage your account, allow you to log in, and communicate relevant App information. For example, we use your email or phone to verify your identity (e.g., sending SMS verification codes) and for user assistance if necessary.",
+        "Personalization and App Functionality: We use your health and physical data to personalize your training experience, adjusting recommendations or plans according to your profile.",
+        "AI Nutrition Analysis (Meal Photos): If you use the photo-based meal logging feature, the App may process the image to extract nutrition estimates (e.g., calories and macronutrients). To do so, the image may be securely sent to our services and/or specialized AI providers (see Section 3). Before sending a photo for analysis to external providers (including third-party AI), the App will show a transparency notice and request your explicit permission. This notice will require user approval whenever a photo is taken unless the user selects the option not to show again, which implies approval for sending data in all future requests.",
+        "Contact Discovery (optional): If you enable this feature, we use your contacts (or equivalent identifiers) only to suggest connections within Spotter AI. This feature is not required and does not condition the core use of the App.",
+        "Content and Community: Content you generate (photos, posts, comments) is used for the App's social functions. Your posts and comments may be seen by other users within Spotter AI, fostering community interaction. You control what information you publish publicly.",
+        "Community Safety: If you report content or users, we process the report information (e.g., the reported content, reason, and necessary metadata) to review the case, apply measures (e.g., hide content or block accounts), and prevent abuse.",
+        "Push Notifications: We use your device identifier to send non-advertising notifications related to the service, such as goal reminders or activity updates. You can disable these at any time in your device settings.",
+        "Subscription and Purchase Management: We use purchase history to manage access to premium features and verify recurring payments.",
+        "Service Improvements: We may analyze how the App is used in an aggregated and anonymous way to improve our service and fix errors."
+      ],
+      "note": "Important: We do not use your personal data for third-party marketing or behavioral advertising. We do not share your data with advertisers or sell personal information to third parties. We may share certain data with service providers acting as processors (e.g., infrastructure, verification, notifications, and AI analysis) solely to operate the App and under our instructions (see Section 3)."
+    },
+    {
+      "title": "Use of Third-Party Services",
+      "content": "We rely on trusted third-party providers who act as data processors and only use your data under our instructions:",
+      "list": [
+        "Supabase: Used for secure database storage (PostgreSQL) and file storage (e.g., photos you upload) in the cloud. They maintain high security and confidentiality standards.",
+        "Twilio: Used exclusively for sending SMS verification messages. They do not retain your number for other purposes or marketing.",
+        "Firebase (Google Firebase Cloud Messaging): Used on Android devices to deliver push notifications. Firebase does not use this information for advertising in our implementation.",
+        "Apple/Expo Push Notifications: On iOS devices, notifications are sent through Apple (APNs) and the Expo platform. They only use the token for the technical delivery of messages.",
+        "OpenAI (AI platform): Used to analyze meal photos (and, where applicable, text you provide) in order to estimate nutrition information (e.g., macronutrients). In this context, the App may transmit the meal image to OpenAI to obtain analysis results. Communications are encrypted (HTTPS/TLS), and we aim to minimize the data shared. OpenAI processes the data only to return the analysis result and, where applicable, for service security and compliance purposes."
+      ],
+      "note": "We do not share your personal data with advertisers or for marketing. Any sharing with providers is solely to operate the App and provide its features (including AI nutrition analysis) under appropriate safeguards. Some providers may process data outside the European Economic Area; where applicable, we apply appropriate legal safeguards (e.g., standard contractual clauses or other lawful measures)."
+    },
+    {
+      "title": "Data Retention and Deletion",
+      "content": "We retain your data only as long as necessary to provide the service or as required by law.",
+      "list": [
+        "Active Account: Data is kept while you maintain an active account to operate the App.",
+        "Meal photos and analysis: Meal photos associated with meal entries are retained while the corresponding meal record remains in your account, and you can delete them by deleting that meal entry. If you delete your account, these photos are deleted as described under 'Deleted Account', subject to legal obligations or temporary technical backups.",
+        "Deleted Account: If you delete your account, we permanently delete all your personal data. Spotter AI provides a simple 'Delete Account' mechanism within the App. This action is irreversible.",
+        "In some cases, temporary technical backups may exist and be deleted according to normal rotation cycles, and/or minimal information may be retained where required by law (e.g., accounting records related to transactions), strictly for the necessary period."
+      ]
+    },
+    {
+      "title": "Your Rights",
+      "content": "As a user, you have the right to:",
+      "list": [
+        "Access: Review the information in your account or request an electronic copy.",
+        "Rectification: Correct or update inaccurate data directly in the App.",
+        "Erasure: Delete your account and all associated data at any time.",
+        "Object/Limit Processing: Request restrictions on how your data is treated in certain circumstances.",
+        "Portability: Request your data in a structured, machine-readable format.",
+        "Withdraw Consent: Withdraw any previously given consent at any time (e.g., by revoking permissions or disabling certain features), without affecting the lawfulness of processing carried out before withdrawal.",
+        "Complain: File a claim with a control authority, such as the Spanish Data Protection Agency (AEPD)."
+      ],
+      "note": "To exercise these rights, you can use the tools in the App or contact us via email."
+    },
+    {
+      "title": "Security and Minors",
+      "content": "We take your security seriously and have specific policies regarding minors:",
+      "list": [
+        "Security: We use HTTPS/TLS encryption for communication and encryption at rest for stored data. We apply reasonable measures to help prevent unauthorized access, alteration, disclosure, or destruction of data.",
+        "Minors: The App is directed exclusively at users over 14 years of age. We do not knowingly collect data from children under 14."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "header": {
+    "contact": "Contact",
+    "privacyPolicy": "Privacy Policy",
+    "useTerms": "Terms of Use"
+  },
+  "hero": {
+    "title": "Spotter AI",
+    "subtitle": "Track your progress and bring fitness to the next level."
+  },
+  "download": {
+    "title": "Download app",
+    "subtitle": "Coming soon",
+    "appStore": "App Store"
+  },
+  "sections": [
+    {
+      "images": [
+        { "src": "/carousel/nutrition/nutrition1.jpeg", "alt": "Nutrition tracking Spotter AI" },
+        { "src": "/carousel/nutrition/nutrition2.jpeg", "alt": "Nutrition tracking Spotter AI" },
+        { "src": "/carousel/nutrition/nutrition3.jpeg", "alt": "Nutrition tracking Spotter AI" },
+        { "src": "/carousel/nutrition/nutrition4.jpeg", "alt": "Nutrition tracking Spotter AI" }
+      ],
+      "title": "Nutrition",
+      "description": "{{Optimize your nutrition by logging your meals in seconds. Get instant insights: a breakdown of calories, protein, carbs, and fats.}} Actionable data, instant readings, and an experience so simple it helps you stay on track even on your most chaotic days."
+    },
+    {
+      "images": [
+        { "src": "/carousel/workout/workout1.jpeg", "alt": "Workout register Spotter AI" },
+        { "src": "/carousel/workout/workout2.jpeg", "alt": "Workout register Spotter AI" },
+        { "src": "/carousel/workout/workout3.jpeg", "alt": "Workout register Spotter AI" },
+        { "src": "/carousel/workout/workout4.jpeg", "alt": "Workout register Spotter AI" },
+        { "src": "/carousel/workout/workout5.jpeg", "alt": "Workout register Spotter AI" }
+      ],
+      "title": "Workout",
+      "reversed": true,
+      "description": "Train with purpose and track real progress. {{Log your sessions by sets, reps, and weight,}} while visualizing side-by-side comparisons with your previous workouts."
+    },
+    {
+      "images": [
+        { "src": "/carousel/streaks/streaks1.jpeg", "alt": "Streaks Spotter AI" },
+        { "src": "/carousel/streaks/streaks2.jpeg", "alt": "Streaks Spotter AI" },
+        { "src": "/carousel/streaks/streaks3.jpeg", "alt": "Streaks Spotter AI" },
+        { "src": "/carousel/streaks/streaks4.jpeg", "alt": "Streaks Spotter AI" },
+        { "src": "/carousel/streaks/streaks5.jpeg", "alt": "Streaks Spotter AI" }
+      ],
+      "title": "Streaks",
+      "description": "Consistency is key, and no one wants to fall off their peak. {{Make consistency visible, measurable, and motivating with Streaks.}} Complete weekly challenges, earn XP, and compete in different leagues so that hitting your next workout becomes second nature."
+    },
+    {
+      "images": [
+        { "src": "/carousel/social/social1.jpeg", "alt": "Social feed Spotter AI" },
+        { "src": "/carousel/social/social2.jpeg", "alt": "Social feed Spotter AI" },
+        { "src": "/carousel/social/social3.jpeg", "alt": "Feed social Spotter AI" },
+        { "src": "/carousel/social/social4.jpeg", "alt": "Feed social Spotter AI" }
+      ],
+      "title": "Social",
+      "reversed": true,
+      "description": "{{Spotter is more than just a fitness app: it's a social network for progressing together.}} Share your meals and routines to create a feed that pushes you forward when motivation fades. Follow your friends and share your journey. Consistency is easier when you're part of a community."
+    }
+  ],
+  "thankYou": {
+    "title": "Successful registration!",
+    "subtitle": "You're now part of the Spotter community. Go back to the app and sign in to {{transform your fitness journey.}}"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  }
+}
