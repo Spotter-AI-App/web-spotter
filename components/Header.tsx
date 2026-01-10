@@ -42,6 +42,12 @@ export default function Header() {
           >
             {content.header.privacyPolicy}
           </Link>
+          <Link
+            href="/terms"
+            className="text-sm dark:text-white hover:text-[#10B981] dark:hover:text-[#10B981] transition-colors"
+          >
+            {content.header.useTerms}
+          </Link>
           <LanguageSwitch />
         </nav>
       </div>

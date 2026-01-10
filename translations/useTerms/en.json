@@ -1,0 +1,181 @@
+{
+  "title": "Terms of Use & Community Guidelines",
+  "subtitle": "These Terms of Use / Community Guidelines (the \"Terms\") constitute a legal agreement between you (\"User\" or \"you\") and Spotter AI (\"Spotter AI\", \"we\" or \"the Operator\") that governs access to and use of the Spotter AI mobile application and its related services (collectively, the \"App\" or the \"Service\"). These Terms are designed to: (i) Establish clear rules of use. (ii) Protect the community. and (iii) Prevent objectionable content or abusive conduct, in accordance with applicable requirements for apps with user-generated content.",
+  "lastUpdated": "January 2026",
+  "lastUpdatedLabel": "Last updated:",
+  "contactTitle": "Contact",
+  "contactText": "For support, claims, legal reports or inquiries, please contact us.",
+  "contactAddressLabel": "Email:",
+  "contactRightsText": "Website: https://www.spotter-ai.app",
+  "footerText": "These Terms constitute the entire agreement between you and Spotter AI regarding use of the Service.",
+  "sections": [
+    {
+      "title": "Acceptance of Terms",
+      "content": "By creating an account, accessing or using the App, you confirm that you have read, understood and accept these Terms and our Privacy Policy.",
+      "list": [
+        "If you do not accept these Terms or the Privacy Policy, you must not use the App.",
+        "You acknowledge that it may be necessary to accept updated versions of these Terms to continue using the App."
+      ]
+    },
+    {
+      "title": "Relationship with Apple and the \"Apple Standard EULA\"",
+      "content": "If you obtain the App through the App Store, your use is also subject to Apple's applicable terms.",
+      "list": [
+        "Apps distributed through the App Store are licensed (not sold) and require prior acceptance of Apple's standard EULA (or a custom EULA if the developer provides one in App Store Connect).",
+        "These Terms supplement Apple's standard EULA. In case of conflict strictly regarding the scope of the license and the \"Usage Rules\" applicable to iOS, Apple's provisions shall prevail to the extent applicable.",
+        "Apple is not a party to these Terms, does not provide the Service and assumes no responsibility for the App or its content, except as required by law."
+      ]
+    },
+    {
+      "title": "Eligibility, Minimum Age (14+) and Accounts",
+      "content": "You must be at least 14 years old to use the App. If your country's regulations require a higher age, you must comply with it.",
+      "list": [
+        "If you are a minor under your applicable legislation (for example, under 18 years old), you may only use the App with the consent and supervision of your parent or legal guardian.",
+        "You agree to provide truthful and up-to-date information in your account and not to impersonate third parties.",
+        "You are responsible for maintaining the confidentiality of your credentials and for all activity carried out from your account.",
+        "We may suspend, limit or close accounts that violate these Terms or that pose a risk to other users or to the Service."
+      ]
+    },
+    {
+      "title": "Description of the Service",
+      "content": "Spotter AI allows you to record meals (including photos), macronutrients, hydration, weight, workouts and progress.",
+      "list": [
+        "The App may include social features, such as posts, comments, profiles and user tracking. Some of this content may be public or visible to followers, depending on privacy settings.",
+        "The App may offer recommendations or analysis (including through automated/AI systems). Such recommendations are for guidance only and do not constitute medical advice (see Section 10)."
+      ]
+    },
+    {
+      "title": "App License",
+      "content": "We grant you a limited, personal, revocable, non-exclusive and non-transferable license to install and use the App solely for your personal use and in accordance with these Terms.",
+      "list": [
+        "You may not (except as permitted by law): copy, decompile, reverse engineer, modify or create derivative works of the App; or redistribute, sell, rent or sublicense it.",
+        "You agree to use the App lawfully and not to attempt to circumvent technical security or integrity measures."
+      ]
+    },
+    {
+      "title": "User-Generated Content (UGC) and Community Guidelines – Zero Tolerance",
+      "content": "The Service may allow users to post content, including text, images, comments, metrics, routines, photographs and other materials (\"User Content\"). ZERO TOLERANCE: We do not tolerate objectionable content or abusive conduct.",
+      "list": [
+        "Harassment, threats, intimidation, bullying or incitement to hatred",
+        "Explicit sexual, pornographic or sexual exploitation content; any content that sexualizes or endangers minors",
+        "Graphic violence, physical threats or promotion of self-harm or suicide",
+        "Illegal, defamatory content or that infringes third-party rights (copyright, trademarks, privacy, image rights)",
+        "Identity theft, fraud, scams, phishing, spam or coordinated manipulation",
+        "Content primarily intended to sexualize, objectify or rate real people (\"hot-or-not\"), or \"chatroulette\" type experiences for sexual purposes",
+        "Content that reveals sensitive personal information of third parties (doxxing), or that incites persecution or harm",
+        "Any other content that, in our reasonable judgment, is objectionable, abusive or poses a risk to the community"
+      ],
+      "note": "You are solely responsible for your User Content and the consequences of posting it. Do not post content that you do not have the right to share."
+    },
+    {
+      "title": "AI Moderation and Enforcement",
+      "content": "To protect the community, Spotter AI uses an automated AI-based monitoring algorithm to analyze images attached by users before or during publication.",
+      "list": [
+        "The system may allow publication, deny it or flag it for additional review.",
+        "If an image is denied, the user may not be able to publish it or may be asked to modify it.",
+        "Automated detection may produce false positives or negatives; therefore, we may apply additional reviews and corrective measures.",
+        "We may (without obligation) review, filter, limit visibility, remove content, restrict features or suspend/expel accounts for violations, even without prior notice when necessary for security or legal compliance.",
+        "The App offers mechanisms to report content or users that violate these Terms and to block users.",
+        "Repeated violations may result in prolonged suspension or permanent expulsion."
+      ]
+    },
+    {
+      "title": "Content Rights",
+      "content": "You retain ownership of your User Content. By posting User Content, you grant us a worldwide, non-exclusive, royalty-free, sublicensable and transferable license (only to the extent necessary) to host, store, reproduce, adapt, distribute, publicly communicate and display such content within the Service.",
+      "list": [
+        "You warrant that you have sufficient rights over the content you post and that it does not infringe third-party rights.",
+        "If you believe your intellectual property or image rights have been infringed, contact us with sufficient information to investigate."
+      ]
+    },
+    {
+      "title": "Acceptable Use and Security",
+      "content": "You agree to comply with applicable law and these Terms, and not to use the App for illegal, harmful or abusive purposes.",
+      "list": [
+        "Not attempt to access systems, accounts or data without authorization",
+        "Not interfere with the operation of the App (incl. unauthorized scraping, abusive bots, attacks, exploitation of vulnerabilities, social engineering)",
+        "Not circumvent or attempt to circumvent moderation, security or access limitation systems"
+      ],
+      "note": "We may implement technical measures to prevent abuse (e.g., rate limiting, automated detection, blocklists, integrity verification, etc.)."
+    },
+    {
+      "title": "Health, Nutrition and Exercise – Medical Disclaimer",
+      "content": "Spotter AI is not a medical service provider. The App offers tools and information for informational and general wellness purposes.",
+      "list": [
+        "Before making any diet or exercise changes, consult a healthcare professional, especially if you have medical conditions, injuries, pregnancy or any risk circumstances.",
+        "You assume the risks arising from exercise and the use of recommendations. Results may vary.",
+        "The information displayed by the App (including analysis, estimates or recommendations) is not guaranteed and may be inaccurate or incomplete."
+      ]
+    },
+    {
+      "title": "Subscriptions, Payments and Trials",
+      "content": "Some features may require a subscription (for example, \"Spotter Pro\"). The price, duration and benefits will be displayed before purchase.",
+      "list": [
+        "iOS purchases: if you purchase through the App Store, billing and subscription management are handled through Apple. You can manage or cancel renewal in your Apple ID settings.",
+        "Automatic renewal: unless cancelled, the subscription may renew automatically as indicated in the purchase flow.",
+        "Refunds: refund policies may depend on the platform (Apple/Google) and their terms."
+      ]
+    },
+    {
+      "title": "Privacy and Data",
+      "content": "We process personal data in accordance with our Privacy Policy, available at: https://www.spotter-ai.app/policy",
+      "list": [
+        "We may collect technical data to improve the App (for example, crash diagnostics, performance, security) in accordance with the Privacy Policy.",
+        "You acknowledge that use of the App involves processing health/wellness data (e.g., goals, weight, workouts), which may be considered sensitive in certain jurisdictions."
+      ]
+    },
+    {
+      "title": "Availability, Changes and Updates",
+      "content": "We may modify, suspend or discontinue the Service (in whole or in part) for technical, legal or security reasons.",
+      "list": [
+        "We may publish updates that change features. Continued use after relevant changes implies acceptance of the updated Terms."
+      ]
+    },
+    {
+      "title": "Termination",
+      "content": "You may stop using the App at any time. You may request account deletion through the mechanisms available in the App or through support.",
+      "list": [
+        "We may suspend or cancel your access if you breach these Terms or if we consider that your conduct poses a risk to other users or to the Service.",
+        "After termination, some sections (e.g., disclaimers, limitations, indemnity) will remain in effect."
+      ]
+    },
+    {
+      "title": "Disclaimer of Warranties",
+      "content": "To the extent permitted by law, the App is provided \"as is\" and \"as available\", without warranties of any kind (express or implied), including fitness for a particular purpose, accuracy or absence of errors.",
+      "list": [
+        "We do not guarantee that the App will be free from interruptions, failures or unauthorized access."
+      ]
+    },
+    {
+      "title": "Limitation of Liability",
+      "content": "To the extent permitted by law, Spotter AI shall not be liable for indirect, incidental, special, consequential or punitive damages, or for loss of data, profits or business interruption.",
+      "list": [
+        "In no event shall our total liability exceed the amount paid by you (if applicable) in the last 12 months, unless otherwise provided by law."
+      ]
+    },
+    {
+      "title": "Indemnification",
+      "content": "You agree to indemnify and hold Spotter AI harmless from claims arising from:",
+      "list": [
+        "Your use of the Service",
+        "Your User Content",
+        "Your breach of these Terms or the law"
+      ]
+    },
+    {
+      "title": "Applicable Law and Jurisdiction",
+      "content": "These Terms shall be governed by the laws of Spain, except for mandatory rules of the consumer's place of residence where applicable.",
+      "list": [
+        "Any dispute shall be submitted to the competent courts in accordance with applicable regulations, without prejudice to mandatory consumer rights."
+      ]
+    },
+    {
+      "title": "General Provisions",
+      "content": "Final provisions regarding these Terms:",
+      "list": [
+        "If any clause is deemed invalid or unenforceable, the rest shall remain in effect.",
+        "Failure to exercise a right does not imply waiver.",
+        "These Terms constitute the entire agreement between you and Spotter AI regarding use of the Service."
+      ]
+    }
+  ]
+}

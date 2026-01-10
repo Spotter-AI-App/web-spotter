@@ -1,0 +1,181 @@
+{
+  "title": "Términos de Uso y Normas de la Comunidad",
+  "subtitle": "Estos Términos de Uso / Normas de la Comunidad (los \"Términos\") constituyen un acuerdo legal entre usted (\"Usuario\" o \"usted\") y Spotter AI (\"Spotter AI\", \"nosotros\" o \"el Operador\") que regula el acceso y uso de la aplicación móvil Spotter AI y sus servicios relacionados (conjuntamente, la \"App\" o el \"Servicio\"). Estos Términos están diseñados para: (i) Establecer reglas claras de uso. (ii) Proteger a la comunidad. y (iii) Prevenir contenido objetable o conductas abusivas, de acuerdo con los requisitos aplicables a apps con contenido generado por usuarios.",
+  "lastUpdated": "Enero 2026",
+  "lastUpdatedLabel": "Última actualización:",
+  "contactTitle": "Contacto",
+  "contactText": "Para soporte, reclamaciones, reportes legales o consultas, contáctenos.",
+  "contactAddressLabel": "Email:",
+  "contactRightsText": "Sitio web: https://www.spotter-ai.app",
+  "footerText": "Estos Términos constituyen el acuerdo completo entre usted y Spotter AI respecto al uso del Servicio.",
+  "sections": [
+    {
+      "title": "Aceptación de los Términos",
+      "content": "Al crear una cuenta, acceder o usar la App, usted confirma que ha leído, entendido y acepta estos Términos y nuestra Política de Privacidad.",
+      "list": [
+        "Si no acepta estos Términos o la Política de Privacidad, no debe usar la App.",
+        "Usted reconoce que puede ser necesario aceptar versiones actualizadas de estos Términos para continuar usando la App."
+      ]
+    },
+    {
+      "title": "Relación con Apple y el \"Apple Standard EULA\"",
+      "content": "Si usted obtiene la App a través de la App Store, su uso también está sujeto a las condiciones aplicables de Apple.",
+      "list": [
+        "Las apps distribuidas a través de la App Store se licencian (no se venden) y requieren la aceptación previa del EULA estándar de Apple (o un EULA personalizado si el desarrollador lo proporciona en App Store Connect).",
+        "Estos Términos complementan el EULA estándar de Apple. En caso de conflicto estrictamente sobre el alcance de la licencia y las \"Usage Rules\" aplicables a iOS, prevalecerá lo establecido por Apple en la medida aplicable.",
+        "Apple no es parte de estos Términos, no presta el Servicio y no asume responsabilidad por la App o su contenido, salvo lo que exija la ley."
+      ]
+    },
+    {
+      "title": "Elegibilidad, Edad Mínima (14+) y Cuentas",
+      "content": "Debe tener al menos 14 años para usar la App. Si la normativa de su país exige una edad superior, deberá cumplirla.",
+      "list": [
+        "Si usted es menor de edad según su legislación aplicable (por ejemplo, menor de 18 años), solo puede usar la App con consentimiento y supervisión de su padre/madre o tutor legal.",
+        "Usted se compromete a proporcionar información veraz y actualizada en su cuenta y a no suplantar la identidad de terceros.",
+        "Usted es responsable de mantener la confidencialidad de sus credenciales y de toda actividad realizada desde su cuenta.",
+        "Podemos suspender, limitar o cerrar cuentas que infrinjan estos Términos o que supongan un riesgo para otros usuarios o para el Servicio."
+      ]
+    },
+    {
+      "title": "Descripción del Servicio",
+      "content": "Spotter AI permite registrar comidas (incluyendo fotos), macronutrientes, hidratación, peso, entrenamientos y progreso.",
+      "list": [
+        "La App puede incluir funciones sociales, como publicaciones, comentarios, perfiles y seguimiento de usuarios. Parte de este contenido puede ser público o visible para seguidores, según la configuración de privacidad.",
+        "La App puede ofrecer recomendaciones o análisis (incluyendo mediante sistemas automatizados/IA). Dichas recomendaciones son orientativas y no constituyen asesoramiento médico (ver Sección 10)."
+      ]
+    },
+    {
+      "title": "Licencia de Uso de la App",
+      "content": "Le otorgamos una licencia limitada, personal, revocable, no exclusiva e intransferible para instalar y usar la App únicamente para su uso personal y conforme a estos Términos.",
+      "list": [
+        "Usted no puede (salvo lo permitido por ley): copiar, descompilar, realizar ingeniería inversa, modificar o crear obras derivadas de la App; ni redistribuirla, venderla, alquilarla o sublicenciarla.",
+        "Usted se compromete a usar la App conforme a la ley y a no intentar eludir medidas técnicas de seguridad o integridad."
+      ]
+    },
+    {
+      "title": "Contenido Generado por Usuarios (UGC) y Normas de Comunidad – Tolerancia Cero",
+      "content": "El Servicio puede permitir que los usuarios publiquen contenido, incluyendo texto, imágenes, comentarios, métricas, rutinas, fotografías y otros materiales (\"Contenido de Usuario\"). TOLERANCIA CERO: No toleramos contenido objetable ni conductas abusivas.",
+      "list": [
+        "Acoso, amenazas, intimidación, bullying o incitación al odio",
+        "Contenido sexual explícito, pornográfico o de explotación sexual; cualquier contenido que sexualice o ponga en riesgo a menores",
+        "Violencia gráfica, amenazas físicas o promoción de autolesiones o suicidio",
+        "Contenido ilegal, difamatorio o que infrinja derechos de terceros (copyright, marcas, privacidad, derechos de imagen)",
+        "Suplantación de identidad, fraude, estafas, phishing, spam o manipulación coordinada",
+        "Contenido destinado principalmente a sexualizar, cosificar o votar sobre personas reales (\"hot-or-not\"), o experiencias tipo \"chatroulette\" con fines sexuales",
+        "Contenido que revele información personal sensible de terceros (doxxing), o que incite a la persecución o daño",
+        "Cualquier otro contenido que, a nuestro juicio razonable, sea objetable, abusivo o ponga en riesgo a la comunidad"
+      ],
+      "note": "Usted es el único responsable de su Contenido de Usuario y de las consecuencias de publicarlo. No publique contenido que no tenga derecho a compartir."
+    },
+    {
+      "title": "Moderación con IA y Enforcement",
+      "content": "Para proteger a la comunidad, Spotter AI utiliza un algoritmo de supervisión automatizada basado en IA para analizar imágenes adjuntadas por los usuarios antes o durante su publicación.",
+      "list": [
+        "El sistema puede permitir la publicación, denegarla o marcarla para revisión adicional.",
+        "Si una imagen es denegada, es posible que el usuario no pueda publicarla o que se solicite modificarla.",
+        "La detección automatizada puede producir falsos positivos o negativos; por ello, podemos aplicar revisiones adicionales y medidas correctivas.",
+        "Podemos (sin obligación) revisar, filtrar, limitar la visibilidad, eliminar contenido, restringir funciones o suspender/expulsar cuentas por infracciones, incluso sin previo aviso cuando sea necesario para seguridad o cumplimiento legal.",
+        "La App ofrece mecanismos para reportar contenido o usuarios que infrinjan estos Términos y para bloquear usuarios.",
+        "Infracciones repetidas pueden conllevar suspensión prolongada o expulsión definitiva."
+      ]
+    },
+    {
+      "title": "Derechos sobre el Contenido",
+      "content": "Usted conserva la titularidad de su Contenido de Usuario. Al publicar Contenido de Usuario, usted nos otorga una licencia mundial, no exclusiva, libre de royalties, sublicenciable y transferible (solo en la medida necesaria) para alojar, almacenar, reproducir, adaptar, distribuir, comunicar públicamente y mostrar dicho contenido dentro del Servicio.",
+      "list": [
+        "Usted garantiza que tiene derechos suficientes sobre el contenido que publica y que no infringe derechos de terceros.",
+        "Si usted cree que se ha infringido su propiedad intelectual o derechos de imagen, contáctenos con información suficiente para investigar."
+      ]
+    },
+    {
+      "title": "Uso Aceptable y Seguridad",
+      "content": "Usted se compromete a cumplir la ley aplicable y estos Términos, y a no usar la App para fines ilegales, dañinos o abusivos.",
+      "list": [
+        "No intentar acceder sin autorización a sistemas, cuentas o datos",
+        "No interferir con el funcionamiento de la App (incl. scraping no autorizado, bots abusivos, ataques, explotación de vulnerabilidades, ingeniería social)",
+        "No eludir o intentar eludir sistemas de moderación, seguridad o limitación de acceso"
+      ],
+      "note": "Podemos implementar medidas técnicas para prevenir abuso (p. ej., limitación de frecuencia, detección automatizada, listas de bloqueo, verificación de integridad, etc.)."
+    },
+    {
+      "title": "Salud, Nutrición y Ejercicio – Exención de Responsabilidad Médica",
+      "content": "Spotter AI no es un proveedor de servicios médicos. La App ofrece herramientas e información con fines informativos y de bienestar general.",
+      "list": [
+        "Antes de iniciar cambios de dieta o ejercicio, consulte a un profesional sanitario, especialmente si padece condiciones médicas, lesiones, embarazo o cualquier circunstancia de riesgo.",
+        "Usted asume los riesgos derivados del ejercicio y del uso de recomendaciones. Los resultados pueden variar.",
+        "La información mostrada por la App (incluyendo análisis, estimaciones o recomendaciones) no está garantizada y puede ser inexacta o incompleta."
+      ]
+    },
+    {
+      "title": "Suscripciones, Pagos y Pruebas",
+      "content": "Algunas funciones pueden requerir suscripción (por ejemplo, \"Spotter Pro\"). El precio, duración y beneficios se mostrarán antes de la compra.",
+      "list": [
+        "Compras en iOS: si compra mediante la App Store, el cobro y la gestión de la suscripción se realizan a través de Apple. Puede gestionar o cancelar la renovación en la configuración de su Apple ID.",
+        "Renovación automática: salvo que se cancele, la suscripción puede renovarse automáticamente según se indique en el flujo de compra.",
+        "Reembolsos: las políticas de reembolso pueden depender de la plataforma (Apple/Google) y sus condiciones."
+      ]
+    },
+    {
+      "title": "Privacidad y Datos",
+      "content": "Tratamos datos personales conforme a nuestra Política de Privacidad, disponible en: https://www.spotter-ai.app/policy",
+      "list": [
+        "Podemos recopilar datos técnicos para mejorar la App (por ejemplo, diagnósticos de fallos, rendimiento, seguridad) de acuerdo con la Política de Privacidad.",
+        "Usted reconoce que el uso de la App implica tratamiento de datos de salud/bienestar (p. ej., objetivos, peso, entrenos), que puede considerarse sensible en ciertas jurisdicciones."
+      ]
+    },
+    {
+      "title": "Disponibilidad, Cambios y Actualizaciones",
+      "content": "Podemos modificar, suspender o discontinuar el Servicio (total o parcialmente) por razones técnicas, legales o de seguridad.",
+      "list": [
+        "Podemos publicar actualizaciones que cambien funcionalidades. El uso continuado tras cambios relevantes implica aceptación de los Términos actualizados."
+      ]
+    },
+    {
+      "title": "Terminación",
+      "content": "Usted puede dejar de usar la App en cualquier momento. Puede solicitar eliminación de cuenta según los mecanismos disponibles en la App o a través de soporte.",
+      "list": [
+        "Podemos suspender o cancelar su acceso si incumple estos Términos o si consideramos que su conducta pone en riesgo a otros usuarios o al Servicio.",
+        "Tras la terminación, algunas secciones (p. ej., exenciones, limitaciones, indemnidad) seguirán vigentes."
+      ]
+    },
+    {
+      "title": "Exención de Garantías",
+      "content": "En la medida permitida por la ley, la App se proporciona \"tal cual\" y \"según disponibilidad\", sin garantías de ningún tipo (expresas o implícitas), incluyendo idoneidad para un propósito particular, exactitud o ausencia de errores.",
+      "list": [
+        "No garantizamos que la App esté libre de interrupciones, fallos o accesos no autorizados."
+      ]
+    },
+    {
+      "title": "Limitación de Responsabilidad",
+      "content": "En la medida permitida por la ley, Spotter AI no será responsable de daños indirectos, incidentales, especiales, consecuentes o punitivos, ni de pérdida de datos, beneficios o interrupción del negocio.",
+      "list": [
+        "En ningún caso nuestra responsabilidad total excederá el importe pagado por usted (si aplica) en los últimos 12 meses, salvo que la ley disponga lo contrario."
+      ]
+    },
+    {
+      "title": "Indemnización",
+      "content": "Usted acepta indemnizar y mantener indemne a Spotter AI frente a reclamaciones derivadas de:",
+      "list": [
+        "Su uso del Servicio",
+        "Su Contenido de Usuario",
+        "Su incumplimiento de estos Términos o de la ley"
+      ]
+    },
+    {
+      "title": "Ley Aplicable y Jurisdicción",
+      "content": "Estos Términos se regirán por las leyes de España, salvo normas imperativas del lugar de residencia del consumidor cuando aplique.",
+      "list": [
+        "Cualquier disputa se someterá a los juzgados y tribunales competentes conforme a la normativa aplicable, sin perjuicio de derechos imperativos del consumidor."
+      ]
+    },
+    {
+      "title": "Disposiciones Generales",
+      "content": "Disposiciones finales respecto a estos Términos:",
+      "list": [
+        "Si alguna cláusula se considera inválida o inaplicable, el resto permanecerá vigente.",
+        "La falta de ejercicio de un derecho no implica renuncia.",
+        "Estos Términos constituyen el acuerdo completo entre usted y Spotter AI respecto al uso del Servicio."
+      ]
+    }
+  ]
+}
