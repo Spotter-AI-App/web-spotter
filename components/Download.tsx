@@ -18,13 +18,12 @@ const Download: React.FC = () => {
             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-gray-900 dark:text-white mb-4">
               {content.download.title}
             </h2>
-            <p className="text-xl text-gray-800 dark:text-gray-300 mb-6 font-light">
-              {content.download.subtitle}
-            </p>
             <div className="flex space-x-4">
-              <Link
-                href="#"
+<Link
+                href="https://apps.apple.com/es/app/spotter-ai/id6756170372"
                 className="download-button bg-black dark:bg-white text-white dark:text-black px-5 py-2 rounded-md text-base flex items-center space-x-2 transition-colors duration-200"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <FaApple className="text-2xl" />
                 <span>{content.download.appStore}</span>
