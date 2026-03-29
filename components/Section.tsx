@@ -13,6 +13,8 @@ interface SectionProps {
   description: string;
   /** If true, image appears on the right instead of the left */
   reversed?: boolean;
+  /** Pet avatar image displayed inline with the title */
+  petImage?: string;
 }
 
 const Section: React.FC<SectionProps> = ({ 
@@ -21,7 +23,8 @@ const Section: React.FC<SectionProps> = ({
   images,
   title, 
   description,
-  reversed = false 
+  reversed = false,
+  petImage
 }) => {
   // Convert single image to slides array, or use images prop
   const slides: CarouselSlide[] = images || (imageSrc ? [{ src: imageSrc, alt: imageAlt }] : []);
@@ -31,7 +34,16 @@ const Section: React.FC<SectionProps> = ({
       <div className="flex flex-col md:flex-row items-center gap-12">        
         {/* Text Side */}
         <div className={`w-full md:w-1/2 ${reversed ? 'md:order-2' : 'md:order-1'}`}>
-          <h2 className="text-3xl md:text-4xl font-bold text-white mb-6 leading-tight">
+          <h2 className="flex items-center gap-3 text-3xl md:text-4xl font-bold text-white mb-6 leading-tight">
+            {petImage && (
+              <Image
+                src={petImage}
+                alt="Spotty"
+                width={64}
+                height={64}
+                className="rounded-full flex-shrink-0"
+              />
+            )}
             <HighlightedText text={title} />
           </h2>
           <p className="text-lg text-gray-300 leading-relaxed">

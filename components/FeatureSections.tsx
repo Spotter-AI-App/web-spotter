@@ -22,6 +22,7 @@ export default function FeatureSections() {
           title={section.title}
           description={section.description}
           reversed={section.reversed}
+          petImage={section.petImage}
         />
       ))}
     </>

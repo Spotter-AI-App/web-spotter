@@ -21,6 +21,7 @@
         { "src": "/carousel/nutrition/nutrition4.jpeg", "alt": "Nutrition tracking Spotter AI" }
       ],
       "title": "Nutrition",
+      "petImage": "/spotties/avatar_nutricion.png",
       "description": "{{Optimize your nutrition by logging your meals in seconds. Get instant insights: a breakdown of calories, protein, carbs, and fats.}} Actionable data, instant readings, and an experience so simple it helps you stay on track even on your most chaotic days."
     },
     {
@@ -32,6 +33,7 @@
         { "src": "/carousel/workout/workout5.jpeg", "alt": "Workout register Spotter AI" }
       ],
       "title": "Workout",
+      "petImage": "/spotties/avatar_workout.png",
       "reversed": true,
       "description": "Train with purpose and track real progress. {{Log your sessions by sets, reps, and weight,}} while visualizing side-by-side comparisons with your previous workouts."
     },
@@ -44,6 +46,7 @@
         { "src": "/carousel/streaks/streaks5.jpeg", "alt": "Streaks Spotter AI" }
       ],
       "title": "Streaks",
+      "petImage": "/spotties/avatar_streaks.png",
       "description": "Consistency is key, and no one wants to fall off their peak. {{Make consistency visible, measurable, and motivating with Streaks.}} Complete weekly challenges, earn XP, and compete in different leagues so that hitting your next workout becomes second nature."
     },
     {
@@ -54,6 +57,7 @@
         { "src": "/carousel/social/social4.jpeg", "alt": "Feed social Spotter AI" }
       ],
       "title": "Social",
+      "petImage": "/spotties/avatar_social.png",
       "reversed": true,
       "description": "{{Spotter is more than just a fitness app: it's a social network for progressing together.}} Share your meals and routines to create a feed that pushes you forward when motivation fades. Follow your friends and share your journey. Consistency is easier when you're part of a community."
     }

@@ -21,6 +21,7 @@
         { "src": "/carousel/nutrition/nutrition4.jpeg", "alt": "Nutrition tracking Spotter AI" }
       ],
       "title": "Nutrición",
+      "petImage": "/spotties/avatar_nutricion.png",
       "description": "{{Optimiza tu nutrición registrando tus comidas en segundos. Obtén un análisis inmediato: panel de calorías, proteína, carbohidratos y grasas.}} Datos útiles, lectura instantánea y una experiencia tan simple que te permite mantener el plan incluso en días caóticos."
     },
     {
@@ -32,6 +33,7 @@
         { "src": "/carousel/workout/workout5.jpeg", "alt": "Workout register Spotter AI" }
       ],
       "title": "Entrenamiento",
+      "petImage": "/spotties/avatar_workout.png",
       "reversed": true,
       "description": "Entrena con intención y mide progreso real. {{Registra tus sesiones por series con repeticiones y peso,}} visualizando comparativas respecto a entrenamientos anteriores."
     },
@@ -44,6 +46,7 @@
         { "src": "/carousel/streaks/streaks5.jpeg", "alt": "Streaks Spotter AI" }
       ],
       "title": "Streaks",
+      "petImage": "/spotties/avatar_streaks.png",
       "description": "La constancia es lo que cambia el juego, y nadie quiere dejar de estar en su peak. {{Convierte la constancia en algo visible, medible y motivador con los Streaks.}} Completa retos semanales, gana XP y compite en las diferentes ligas para que volver a entrenar mañana sea lo natural."
     },
     {
@@ -54,6 +57,7 @@
         { "src": "/carousel/social/social4.jpeg", "alt": "Feed social Spotter AI" }
       ],
       "title": "Social",
+      "petImage": "/spotties/avatar_social.png",
       "reversed": true,
       "description": "{{Spotter no es solo una app de nutrición y entrenamiento: es una red social para progresar acompañado.}} Comparte tus comidas y tus rutinas, y crea un feed que te empuje a seguir cuando la motivación flojea. Sigue a tus amigos, y comparte tu evolución. La constancia es más fácil cuando se vive en comunidad."
     }
