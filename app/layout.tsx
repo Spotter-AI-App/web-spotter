@@ -7,6 +7,9 @@ import "styles/globals.css";
 
 export const metadata: Metadata = {
   title: "Spotter AI",
+  other: {
+    "facebook-domain-verification": "qs60f99m85ek5a3ckdh8q6jhb2xn35",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
