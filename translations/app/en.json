@@ -10,7 +10,8 @@
   },
   "download": {
     "title": "Download app",
-    "appStore": "App Store"
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
   },
   "sections": [
     {

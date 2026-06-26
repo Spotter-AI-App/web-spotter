@@ -19,7 +19,7 @@ const Download: React.FC = () => {
               {content.download.title}
             </h2>
             <div className="flex space-x-4">
-<Link
+              <Link
                 href="https://apps.apple.com/es/app/spotter-ai/id6756170372"
                 className="download-button bg-black dark:bg-white text-white dark:text-black px-5 py-2 rounded-md text-base flex items-center space-x-2 transition-colors duration-200"
                 target="_blank"
@@ -27,6 +27,15 @@ const Download: React.FC = () => {
               >
                 <FaApple className="text-2xl" />
                 <span>{content.download.appStore}</span>
+              </Link>
+              <Link
+                href="https://play.google.com/store/apps/details?id=com.alfonmayoral.spotteria"
+                className="download-button bg-black dark:bg-white text-white dark:text-black px-5 py-2 rounded-md text-base flex items-center space-x-2 transition-colors duration-200"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaGooglePlay className="text-2xl" />
+                <span>{content.download.googlePlay}</span>
               </Link>
             </div>
           </div>
