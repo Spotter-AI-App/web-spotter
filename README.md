@@ -2,22 +2,13 @@
   <img width="100" alt="image" src="https://www.spotter-ai.app/logos/icon_transparent.png">
 </p>
 
+<p align="center">
+  <a href="https://apps.apple.com/us/app/spotter-ai/id6756170372"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="50"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.alfonmayoral.spotteria"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="50"></a>
+</p>
+
 This is the website of [Spotter AI](https://spotter-ai.app), the social media app to track your fitness habits.
 
-Site built with the starter template [Free Next JS Starter Template](https://vercel.com/new/clone?demo-description=A%20minimal%20Next.js%20template%20for%20building%20SaaS%20websites%20with%20only%20the%20essential%20dependencies.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F7guUYce8M9UWWL2id1Out%2F432b98af389e3b9605804849a726a258%2Fsaas.png&demo-title=Minimal%20Next.js%20SaaS%20Website%20Starter&demo-url=https%3A%2F%2Fnextjs-saas-starter-template.vercel.app%2F&from=templates&project-name=Minimal%20Next.js%20SaaS%20Website%20Starter&repository-name=next-js-saas-website-starter&repository-url=https%3A%2F%2Fgithub.com%2Ftalhatahir%2Fnextjs-saas-starter-template&skippable-integrations=1) and deployed in Vercel.
+The project is still maintained, even though new features have stopped from being shipped. We had a lot of fun and learnt a lot building it.
 
-### How to use
-
-1. Clone the repository
-2. Install dependencies `npm install`
-3. Run the development server `npm run dev`
-
-### Features
-
-- Next.js 14 with app router
-- Prebuilt components for a quick start
-- Tailwind CSS
-- Next Themes for dark mode
-- React Icons
-
-2025 Spotter AI - All rights reserved
+Love from @alfonsomayoral, @centenohugo and @alvaroartano.
